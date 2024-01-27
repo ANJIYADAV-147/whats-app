@@ -1,0 +1,12 @@
+.logo{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+}
+.Header-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #e8e9eb;
+    padding: 2px;
+}

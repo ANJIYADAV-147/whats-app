@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+
+.app-container{
+  display: flex;
+  flex-direction: row;
+}

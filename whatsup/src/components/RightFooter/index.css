@@ -1,0 +1,18 @@
+.footer-container{
+    display: flex;
+    flex-direction: row;
+    background-color: #e8e9eb;
+    padding: 15px;
+}
+
+.text-input{
+    border: 0px;
+    width: 60vw;
+    padding: 8px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.icons{
+    margin-right: 20px;
+}

@@ -1,0 +1,19 @@
+.rightHeader-container{
+    display: flex;
+    flex-direction: row;
+    background-color: #e8e9eb;
+    justify-content: space-between;
+    
+}
+.profile-container{
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+}
+.search-menu-call-container{
+    display: flex;
+    flex-direction: row;
+    margin-right: 20px;
+    margin-top: 10px;
+    justify-content: space-between;
+}

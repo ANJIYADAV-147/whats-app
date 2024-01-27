@@ -1,0 +1,65 @@
+.left-side-container{
+    background-color: #ffffff;
+    width: 40%;
+   
+}
+
+.search-container{
+    display: flex;
+    flex-direction: row;
+    background-color: #e8e9eb;
+    margin-top: 10px;
+    padding: 13px;
+    border-radius: 5px;
+    
+}
+.search-input{
+    border: 0px;
+    background-color: transparent;
+    margin-left: 10px;
+}
+.line{
+    border: 0px solid 1px #d7d9de;
+    width: 100%;
+    
+}
+.userProfileUrl{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    margin-left: 0px;
+    margin-right: 20px;
+}
+.name-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+.list-profiles{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 10px;
+    margin-left: 0px;
+}
+.contacts-profiles-list{
+    height: 65%;
+    overflow:auto;
+}
+.name{
+    font-size: 20px;
+    margin-right: 30px;
+    margin-top: 0px;
+}
+.time{
+    color: #434543;
+    margin-top: 0px;
+    margin-right: 10px;
+}
+
+.hr-line{
+    border: 0.5px solid #d7dbda;
+}
